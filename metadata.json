@@ -1,0 +1,8 @@
+{
+  "name": "Cre8Connect",
+  "description": "An AI-powered matchmaking platform for brands and creators, featuring advanced discovery, affiliate tracking, and growth analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
